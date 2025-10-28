@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot 2025-10-28 113756" src="https://github.com/user-attachments/assets/4c6490b8-5749-48dc-9fe6-d156aa071f9e" />
 # -Create-a-Strong-Password-and-Evaluate-Its-Strength
 i've created different passwords with the different complexities and tested in the password strength checker and here is my report of the project.
 # 🔐 Password Strength Evaluation Report
